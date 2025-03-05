@@ -11,17 +11,17 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Web bán điện thoại ",
+      title: "Web đặt phòng",
       description: "Design & Development",
       imgUrl: projImg1,
     },
     {
-      title: "Web bán điện thoại",
+      title: "Web đặt phòng",
       description: "Design & Development",
       imgUrl: projImg2,
     },
     {
-      title: "Web bán điện thoại",
+      title: "Web đặt phòng",
       description: "Design & Development",
       imgUrl: projImg3,
     },
